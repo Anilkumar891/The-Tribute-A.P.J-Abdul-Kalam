@@ -1,0 +1,45 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:aliceblue;
+
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    color: rgb(132, 22, 235);
+}
+p
+{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 10px;
+}
+h2{
+    color:rgb(132, 22, 235) ;
+}
+.content
+{
+    max-width: 900px;
+    margin: 0 auto;
+    min-height: 100vh;
+}
+.objective
+{
+    padding-bottom: 5px;
+}
+.obj
+{
+    text-align: none;
+    justify-content: none;
+    align-items: none;
+}
+strong{
+    padding-bottom: 10px;
+}
